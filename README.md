@@ -1,4 +1,4 @@
-# IDcard-Tampering-check
+# IDcard-Tampering-check (PAN Card) You can use this code with other cards also.
 Step to run application:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
